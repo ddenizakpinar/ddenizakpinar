@@ -1,6 +1,6 @@
 ## Hey there  🌵
 
-Hi, I'm [Deniz Akpınar](https://denizakpinar.vercel.app), a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. 
+Hi, I'm <a href="https://denizakpinar.vercel.app" target="_blank">Deniz Akpınar</a>, a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. 
 Experienced with React, React Native, Redux, Node.js, NoSQL, ASP.NET, SQL, JavaScript, and HTML/CSS. Also passionate about Machine Learning, Deep Learning and Big Data.   
   
 ## Projects
@@ -33,6 +33,6 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, ASP.NET, SQL, JavaS
 
 
 
-[Resume](https://denizakpinar.vercel.app/HuseyinDenizAkpinarResume.pdf)     
-For more [information](https://denizakpinar.vercel.app)    
+<a href="https://denizakpinar.vercel.app/HuseyinDenizAkpinarResume.pdf" target="_blank">Resume</a>      
+For more <a href="https://denizakpinar.vercel.app" target="_blank">information</a>
 
