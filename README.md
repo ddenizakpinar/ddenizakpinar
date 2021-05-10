@@ -33,6 +33,6 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, ASP.NET, SQL, JavaS
 
 
 
-[Resume](denizakpinar.vercel.app/HuseyinDenizAkpinarResume.pdf)     
+[Resume](https://denizakpinar.vercel.app/HuseyinDenizAkpinarResume.pdf)     
 For more [information](https://denizakpinar.vercel.app)    
 
