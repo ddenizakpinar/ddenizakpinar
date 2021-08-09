@@ -1,7 +1,7 @@
 ## Hey there  🌵
 
 Hi, I'm <a href="https://denizakpinar.vercel.app" target="_blank">Deniz Akpınar</a>, a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. 
-Experienced with React, React Native, Redux, Node.js, NoSQL, ASP.NET, SQL, JavaScript, and HTML/CSS. Also passionate about Machine Learning.   
+Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, and HTML/CSS. Also passionate about Machine Learning.   
   
 ## Projects
 
@@ -11,7 +11,7 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, ASP.NET, SQL, JavaS
 
 
 - [Social Network](https://github.com/ddenizakpinar/SocialNetwork): Social media platform.
-- [Project Apparatus](https://github.com/ddenizakpinar/Project-Apparatus): Machine Learning model creator.
+- [Project Apparatus](https://github.com/ddenizakpinar/Project-Apparatus): Machine Learning model trainer.
 - [SwapWeb](https://github.com/ddenizakpinar/SwapWeb): Mobile social media platform.
 - [MovieDiary](https://github.com/ddenizakpinar/MovieDiary): Movie tracking web app.
 - [AgencyPI](https://github.com/ddenizakpinar/AgencyPI): Mini web api.
