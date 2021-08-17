@@ -12,12 +12,12 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, an
 
 - [Social Network](https://github.com/ddenizakpinar/SocialNetwork): Social media platform.
 - [Project Apparatus](https://github.com/ddenizakpinar/Project-Apparatus): Machine Learning model trainer.
+- [Practices](https://github.com/ddenizakpinar/Practices): Competitive programming solutions.
 - [SwapWeb](https://github.com/ddenizakpinar/SwapWeb): Mobile social media platform.
 - [MovieDiary](https://github.com/ddenizakpinar/MovieDiary): Movie tracking web app.
 - [AgencyPI](https://github.com/ddenizakpinar/AgencyPI): Mini web api.
 - [Red Room](https://github.com/ddenizakpinar/redroom): Specialized to-do and tracker app.
-- [Practices](https://github.com/ddenizakpinar/Practices): Competitive programming solutions.
-- [Gigbenders-Template](https://github.com/ddenizakpinar/Gigbenders-Template): Gigbenders' web template.
+- [Gigbenders](https://github.com/ddenizakpinar/Gigbenders-Template): Gigbenders' web template.
 - [Rn-ui](https://github.com/ddenizakpinar/Rn-ui): Mobile ui design.
 - [Cocktails](https://github.com/ddenizakpinar/Cocktails): Recipes app.
 
