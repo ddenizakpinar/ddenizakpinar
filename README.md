@@ -10,16 +10,16 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, an
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="18" height="18" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="20" height="20" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20" />
 
 
-- [Social Network](https://github.com/ddenizakpinar/SocialNetwork): Social media platform.
-- [Project Apparatus](https://github.com/ddenizakpinar/Project-Apparatus): Machine Learning model trainer.
-- [Practices](https://github.com/ddenizakpinar/Practices): Competitive programming solutions.
-- [SwapWeb](https://github.com/ddenizakpinar/SwapWeb): Mobile social media platform.
-- [MovieDiary](https://github.com/ddenizakpinar/MovieDiary): Movie tracking web app.
-- [AgencyPI](https://github.com/ddenizakpinar/AgencyPI): Mini web api.
-- [Red Room](https://github.com/ddenizakpinar/redroom): Specialized to-do and tracker app.
-- [Gigbenders](https://github.com/ddenizakpinar/Gigbenders-Template): Gigbenders' web template.
-- [Rn-ui](https://github.com/ddenizakpinar/Rn-ui): Mobile ui design.
-- [Cocktails](https://github.com/ddenizakpinar/Cocktails): Recipes app.
+- [Social Network](https://github.com/ddenizakpinar/SocialNetwork): Social media platform
+- [Project Apparatus](https://github.com/ddenizakpinar/Project-Apparatus): Machine Learning model trainer
+- [Practices](https://github.com/ddenizakpinar/Practices): Competitive programming solutions
+- [SwapWeb](https://github.com/ddenizakpinar/SwapWeb): Mobile social media platform
+- [MovieDiary](https://github.com/ddenizakpinar/MovieDiary): Movie tracking web app
+- [AgencyPI](https://github.com/ddenizakpinar/AgencyPI): Mini web api
+- [Red Room](https://github.com/ddenizakpinar/redroom): Specialized to-do and tracker app
+- [Gigbenders](https://github.com/ddenizakpinar/Gigbenders-Template): Gigbenders' web template
+- [Rn-ui](https://github.com/ddenizakpinar/Rn-ui): Mobile ui design
+- [Cocktails](https://github.com/ddenizakpinar/Cocktails): Recipes app
 
 ### 101
 - [Redis](https://github.com/ddenizakpinar/Redis-101)
