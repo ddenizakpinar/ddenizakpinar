@@ -31,6 +31,6 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, an
 
 
 
-<a href="www.denizakpinar.dev/HuseyinDenizAkpinarResume.pdf" target="_blank">Resume</a>      
-For more <a href="www.denizakpinar.dev" target="_blank">information</a>
+<a href="https://www.denizakpinar.dev/HuseyinDenizAkpinarResume.pdf" target="_blank">Resume</a>      
+For more <a href="https://www.denizakpinar.dev" target="_blank">information</a>
 
