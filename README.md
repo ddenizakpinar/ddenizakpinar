@@ -23,6 +23,7 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, an
 
 ### 101
 - [Redis](https://github.com/ddenizakpinar/Redis-101)
+- [CI/CD](https://github.com/ddenizakpinar/CI-CD)
 - [Selenium](https://github.com/ddenizakpinar/Selenium-101)
 - [RabbitMQ](https://github.com/ddenizakpinar/RabbitMQ-101)
 - [ApacheKafka](https://github.com/ddenizakpinar/ApacheKafka-101)
