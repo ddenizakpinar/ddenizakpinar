@@ -1,6 +1,6 @@
 ## Hey there  🌵
 
-Hi, I'm <a href="www.denizakpinar.dev" target="_blank">Deniz Akpınar</a>, a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. 
+Hi, I'm <a href="https://www.denizakpinar.dev" target="_blank">Deniz Akpınar</a>, a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. 
 Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, and HTML/CSS. Also passionate about Machine Learning.   
   
 ## Projects
