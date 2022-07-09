@@ -14,7 +14,7 @@ Experienced with React, React Native, Redux, Node.js, NoSQL, SQL, JavaScript, an
 - [Hexagon](https://github.com/ddenizakpinar/hexagon): NFT Marketplace
 - [Social Network](https://github.com/ddenizakpinar/SocialNetwork): Social media platform
 - [Project Apparatus](https://github.com/ddenizakpinar/Project-Apparatus): Machine Learning model trainer
-- [Practices](https://github.com/ddenizakpinar/Practices): Competitive programming solutions
+- [Practices](https://github.com/ddenizakpinar/Practices-old): Competitive programming solutions
 - [SwapWeb](https://github.com/ddenizakpinar/SwapWeb): Mobile social media platform
 - [MovieDiary](https://github.com/ddenizakpinar/MovieDiary): Movie tracking web app
 - [Red Room](https://github.com/ddenizakpinar/redroom): Specialized to-do and tracker app
